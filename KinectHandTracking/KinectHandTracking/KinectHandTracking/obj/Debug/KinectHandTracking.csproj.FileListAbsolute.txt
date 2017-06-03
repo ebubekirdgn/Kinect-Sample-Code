@@ -1,0 +1,1 @@
+C:\Users\Vangos\Desktop\KinectHandTracking\KinectHandTracking\bin\Debug\KinectHandTracking.exe.config
