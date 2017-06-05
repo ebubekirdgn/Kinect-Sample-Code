@@ -1,0 +1,16 @@
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\bin\Debug\Getting Body Coordinates.exe.config
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\bin\Debug\Getting Body Coordinates.exe
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\bin\Debug\Getting Body Coordinates.pdb
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates.csprojResolveAssemblyReference.cache
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\MainWindow.g.cs
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\App.g.cs
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates_MarkupCompile.cache
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates_MarkupCompile.lref
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\MainWindow.baml
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates.g.resources
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting_Body_Coordinates.Properties.Resources.resources
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates.csproj.GenerateResource.Cache
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates.exe
+C:\Users\Dogan\Desktop\Getting Body Coordinates\Getting Body Coordinates\obj\Debug\Getting Body Coordinates.pdb
