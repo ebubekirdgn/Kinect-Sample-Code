@@ -1,0 +1,16 @@
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\bin\Debug\KinectSetupDevelopment.exe.config
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\bin\Debug\KinectSetupDevelopment.exe
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\bin\Debug\KinectSetupDevelopment.pdb
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\MainWindow.g.cs
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\App.g.cs
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment_MarkupCompile.cache
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment_MarkupCompile.lref
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\MainWindow.baml
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment.g.resources
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment.Properties.Resources.resources
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment.csproj.GenerateResource.Cache
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment.exe
+C:\Users\Dogan\Documents\Visual Studio 2017\Projects\KinectSetupDevelopment\KinectSetupDevelopment\obj\Debug\KinectSetupDevelopment.pdb
